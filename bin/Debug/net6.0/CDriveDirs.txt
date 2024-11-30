@@ -1,0 +1,17 @@
+$Recycle.Bin
+$WinREAgent
+Arquivos de Programas
+Config.Msi
+Documents and Settings
+MinGW
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+Riot Games
+System Volume Information
+TDM-GCC-64
+Users
+Windows

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/berna/OneDrive/Documentos/DevC/TestePixel/Content/BlocoPreto.png</File>
+    <File>C:/Users/berna/OneDrive/Documentos/DevC/TestePixel/Content/fonts/Ubuntu32.spritefont</File>
+    <File>C:/Users/berna/OneDrive/Documentos/DevC/TestePixel/Content/inimigo.png</File>
+    <File>C:/Users/berna/OneDrive/Documentos/DevC/TestePixel/Content/jogador17x17.png</File>
+    <File>C:/Users/berna/OneDrive/Documentos/DevC/TestePixel/Content/mapa_900x600.png</File>
+    <File>C:/Users/berna/OneDrive/Documentos/DevC/TestePixel/Content/moeda.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>inimigo13x13.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
